@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rafael/OneDrive/Bureau/BA2_Info/app/src/main/res/layout/activity_menu_principal.xml" value="0.264" />
+        <entry key="..\:/Users/Rafael/OneDrive/Bureau/BA2_Info/app/src/main/res/layout/activity_niveau_1.xml" value="0.264" />
+        <entry key="..\:/Users/Rafael/OneDrive/Bureau/BA2_Info/app/src/main/res/layout/activity_niveau_un.xml" value="0.25" />
+        <entry key="..\:/Users/Rafael/OneDrive/Bureau/BA2_Info/app/src/main/res/layout/activitymenuprincipal.xml" value="0.25" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/BA2_Info/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/BA2_Info/app/src/main/res/layout/activityinventory.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/BA2_Info/app/src/main/res/layout/activitymenuprincipal.xml" value="0.22" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/BA2_Info/app/src/main/res/layout/activityniveauun.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/BA2_Info/app/src/main/res/layout/activityrules.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
